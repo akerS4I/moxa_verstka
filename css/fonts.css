@@ -1,0 +1,13 @@
+/* bai-jamjuree-regular - latin */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/bai-jamjuree-v11-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('../fonts/bai-jamjuree-v11-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bai-jamjuree-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bai-jamjuree-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/bai-jamjuree-v11-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bai-jamjuree-v11-latin-regular.svg#BaiJamjuree') format('svg'); /* Legacy iOS */
+  }
